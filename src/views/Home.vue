@@ -5,7 +5,7 @@
       <H1>Test</H1>
     </button>
 
-    <H1></H1>
+    <H1>{{ msg }}</H1>
   </div>
 </template>
 
